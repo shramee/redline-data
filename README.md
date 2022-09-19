@@ -1,10 +1,10 @@
 # Redline data
 
 ## Tracks
-### Directory `tracks`
+### Directory [tracks](tracks)
 
 Contains the tracks data,
-* `tracks.csv` - CSV containing all tracks metadata.
+* [`tracks.csv`](tracks/track.csv) - CSV containing all tracks metadata.
   - Track Id
   - Name
   - Location Key - Accuweather location key
